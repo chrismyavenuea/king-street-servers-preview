@@ -1,4 +1,18 @@
-User-agent: *
+User-Agent: OAI-SearchBot
 Allow: /
 
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: Googlebot
+User-Agent: Bingbot
+Allow: /
+
+User-Agent: *
+Allow: /
+
+Host: https://kingstreetservers.com
 Sitemap: https://kingstreetservers.com/sitemap.xml
