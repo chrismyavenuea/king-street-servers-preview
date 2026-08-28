@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/quote-builder.tsx": {
-    "file": "_next/static/chunks/quote-builder-C5IkhIW7.js",
+    "file": "_next/static/chunks/quote-builder-L2DI23Da.js",
     "name": "quote-builder",
     "src": "app/quote-builder.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-Ck2lMBKo.js",
+    "file": "_next/static/chunks/layout-segment-context-BDV4EWIY.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CinOk3Lr.js",
+    "file": "_next/static/chunks/index-CGFkg7L3.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
