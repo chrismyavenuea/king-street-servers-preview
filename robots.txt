@@ -14,5 +14,4 @@ Allow: /
 User-Agent: *
 Allow: /
 
-Host: https://kingstreetservers.com
 Sitemap: https://kingstreetservers.com/sitemap.xml
