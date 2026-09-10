@@ -1,0 +1,1 @@
+function e(e,t={}){typeof window.gtag==`function`&&window.gtag(`event`,e,{...t,transport_type:`beacon`})}export{e as t};
