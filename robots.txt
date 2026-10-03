@@ -15,3 +15,4 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://kingstreetservers.com/sitemap.xml
+Sitemap: https://kingstreetservers.com/sitemap.txt
